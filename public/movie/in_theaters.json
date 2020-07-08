@@ -1,0 +1,507 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 6,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.2,
+        "details": {
+          "1": 15.0,
+          "3": 2632.0,
+          "2": 128.0,
+          "5": 5125.0,
+          "4": 11108.0
+        },
+        "stars": "45",
+        "min": 0
+      },
+      "genres": ["剧情"],
+      "title": "理查德·朱维尔的哀歌",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1579450902.87.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1579450902.87.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1579450902.87.jpg"
+          },
+          "name_en": "Paul Walter Hauser",
+          "name": "保罗·沃尔特·豪泽",
+          "alt": "https://movie.douban.com/celebrity/1268250/",
+          "id": "1268250"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533802988.44.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533802988.44.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1533802988.44.jpg"
+          },
+          "name_en": "Sam Rockwell",
+          "name": "山姆·洛克威尔",
+          "alt": "https://movie.douban.com/celebrity/1047972/",
+          "id": "1047972"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5690.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5690.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5690.jpg"
+          },
+          "name_en": "Kathy Bates",
+          "name": "凯西·贝茨",
+          "alt": "https://movie.douban.com/celebrity/1010555/",
+          "id": "1010555"
+        }
+      ],
+      "durations": ["131分钟"],
+      "collect_count": 78359,
+      "mainland_pubdate": "2020-01-10",
+      "has_video": true,
+      "original_title": "Richard Jewell",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1438777188.48.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1438777188.48.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1438777188.48.jpg"
+          },
+          "name_en": "Clint Eastwood",
+          "name": "克林特·伊斯特伍德",
+          "alt": "https://movie.douban.com/celebrity/1054436/",
+          "id": "1054436"
+        }
+      ],
+      "pubdates": [
+        "2019-11-20(AFI Fest)",
+        "2019-12-13(美国)",
+        "2020-01-10(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578705064.jpg",
+        "large": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578705064.jpg",
+        "medium": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578705064.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25842038/",
+      "id": "25842038"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.5,
+        "details": {
+          "1": 33.0,
+          "3": 3450.0,
+          "2": 269.0,
+          "5": 1424.0,
+          "4": 4727.0
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": ["喜剧", "动作", "科幻"],
+      "title": "变身特工",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.jpg"
+          },
+          "name_en": "Will Smith",
+          "name": "威尔·史密斯",
+          "alt": "https://movie.douban.com/celebrity/1027138/",
+          "id": "1027138"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467942867.09.jpg"
+          },
+          "name_en": "Tom Holland",
+          "name": "汤姆·赫兰德",
+          "alt": "https://movie.douban.com/celebrity/1325351/",
+          "id": "1325351"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32735.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32735.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32735.jpg"
+          },
+          "name_en": "Rashida Jones",
+          "name": "拉什达·琼斯",
+          "alt": "https://movie.douban.com/celebrity/1031815/",
+          "id": "1031815"
+        }
+      ],
+      "durations": ["102分钟"],
+      "collect_count": 56769,
+      "mainland_pubdate": "2020-01-03",
+      "has_video": false,
+      "original_title": "Spies in Disguise",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566284127.48.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566284127.48.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566284127.48.jpg"
+          },
+          "name_en": "Nick Bruno",
+          "name": "尼克·布鲁诺",
+          "alt": "https://movie.douban.com/celebrity/1408895/",
+          "id": "1408895"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1557994632.66.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1557994632.66.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1557994632.66.jpg"
+          },
+          "name_en": "Troy Quane",
+          "name": "特洛伊·奎安",
+          "alt": "https://movie.douban.com/celebrity/1408896/",
+          "id": "1408896"
+        }
+      ],
+      "pubdates": [
+        "2019-12-04(加州首映)",
+        "2019-12-25(美国)",
+        "2020-01-03(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2577340942.jpg",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2577340942.jpg",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2577340942.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/27000084/",
+      "id": "27000084"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.5,
+        "details": {
+          "1": 45.0,
+          "3": 1379.0,
+          "2": 217.0,
+          "5": 910.0,
+          "4": 1668.0
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": ["剧情", "动画"],
+      "title": "紫罗兰永恒花园外传：永远与自动手记人偶",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1370586618.47.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1370586618.47.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1370586618.47.jpg"
+          },
+          "name_en": "Yui Ishikawa",
+          "name": "石川由依",
+          "alt": "https://movie.douban.com/celebrity/1329107/",
+          "id": "1329107"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4964.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4964.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4964.jpg"
+          },
+          "name_en": "Minori Chihara",
+          "name": "茅原实里",
+          "alt": "https://movie.douban.com/celebrity/1042757/",
+          "id": "1042757"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21931.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21931.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p21931.jpg"
+          },
+          "name_en": "Aya Endô",
+          "name": "远藤绫",
+          "alt": "https://movie.douban.com/celebrity/1008446/",
+          "id": "1008446"
+        }
+      ],
+      "durations": ["91分钟"],
+      "collect_count": 38569,
+      "mainland_pubdate": "2020-01-10",
+      "has_video": true,
+      "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564396200.09.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564396200.09.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564396200.09.jpg"
+          },
+          "name_en": "Fujita Haruka",
+          "name": "藤田春香",
+          "alt": "https://movie.douban.com/celebrity/1420526/",
+          "id": "1420526"
+        }
+      ],
+      "pubdates": ["2019-09-06(日本)", "2020-01-10(中国大陆)"],
+      "year": "2019",
+      "images": {
+        "small": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578722076.jpg",
+        "large": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578722076.jpg",
+        "medium": "http://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578722076.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/33424345/",
+      "id": "33424345"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.6,
+        "details": {
+          "1": 143.0,
+          "3": 1360.0,
+          "2": 772.0,
+          "5": 74.0,
+          "4": 363.0
+        },
+        "stars": "30",
+        "min": 0
+      },
+      "genres": ["科幻", "惊悚"],
+      "title": "灭绝",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454118774.76.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454118774.76.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1454118774.76.jpg"
+          },
+          "name_en": "Michael Peña",
+          "name": "迈克尔·佩纳",
+          "alt": "https://movie.douban.com/celebrity/1131634/",
+          "id": "1131634"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386855236.97.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386855236.97.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1386855236.97.jpg"
+          },
+          "name_en": "Lizzy Caplan",
+          "name": "丽兹·卡潘",
+          "alt": "https://movie.douban.com/celebrity/1009234/",
+          "id": "1009234"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509274635.63.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509274635.63.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1509274635.63.jpg"
+          },
+          "name_en": "Israel Broussard",
+          "name": "伊瑟尔·布罗萨德",
+          "alt": "https://movie.douban.com/celebrity/1023036/",
+          "id": "1023036"
+        }
+      ],
+      "durations": ["95分钟", "93分钟(中国大陆)"],
+      "collect_count": 18688,
+      "mainland_pubdate": "2020-01-18",
+      "has_video": true,
+      "original_title": "Extinction",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/puqS3biE9tVocel_avatar_uploaded1494750717.23.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/puqS3biE9tVocel_avatar_uploaded1494750717.23.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/puqS3biE9tVocel_avatar_uploaded1494750717.23.jpg"
+          },
+          "name_en": "Ben Young",
+          "name": "本·扬",
+          "alt": "https://movie.douban.com/celebrity/1373883/",
+          "id": "1373883"
+        }
+      ],
+      "pubdates": ["2018-07-27(美国)", "2020-01-18(中国大陆)"],
+      "year": "2018",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579512247.jpg",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579512247.jpg",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579512247.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26871938/",
+      "id": "26871938"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.1,
+        "details": {
+          "1": 144.0,
+          "3": 674.0,
+          "2": 610.0,
+          "5": 31.0,
+          "4": 140.0
+        },
+        "stars": "25",
+        "min": 0
+      },
+      "genres": ["惊悚", "冒险"],
+      "title": "鲨海逃生",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10899.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10899.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10899.jpg"
+          },
+          "name_en": "Nia Long",
+          "name": "尼娅·朗",
+          "alt": "https://movie.douban.com/celebrity/1040570/",
+          "id": "1040570"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2255.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2255.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2255.jpg"
+          },
+          "name_en": "John Corbett",
+          "name": "约翰·考伯特",
+          "alt": "https://movie.douban.com/celebrity/1044870/",
+          "id": "1044870"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1390881158.84.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1390881158.84.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1390881158.84.jpg"
+          },
+          "name_en": "Sophie Nélisse",
+          "name": "苏菲·奈丽丝",
+          "alt": "https://movie.douban.com/celebrity/1323944/",
+          "id": "1323944"
+        }
+      ],
+      "durations": ["89分钟"],
+      "collect_count": 14959,
+      "mainland_pubdate": "2020-01-10",
+      "has_video": true,
+      "original_title": "47 Meters Down: Uncaged",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498455992.67.jpg",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498455992.67.jpg",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1498455992.67.jpg"
+          },
+          "name_en": "Johannes Roberts",
+          "name": "约翰内斯·罗伯茨",
+          "alt": "https://movie.douban.com/celebrity/1019388/",
+          "id": "1019388"
+        }
+      ],
+      "pubdates": ["2019-08-16(美国)", "2020-01-10(中国大陆)"],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578721161.jpg",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578721161.jpg",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578721161.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/27186353/",
+      "id": "27186353"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "3": 0,
+          "2": 0,
+          "5": 0,
+          "4": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": ["爱情", "奇幻"],
+      "title": "我在时间尽头等你",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506664202.44.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506664202.44.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1506664202.44.jpg"
+          },
+          "name_en": "Hong-Chi Lee",
+          "name": "李鸿其",
+          "alt": "https://movie.douban.com/celebrity/1352153/",
+          "id": "1352153"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465192722.92.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465192722.92.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1465192722.92.jpg"
+          },
+          "name_en": "Yitong Li",
+          "name": "李一桐",
+          "alt": "https://movie.douban.com/celebrity/1354284/",
+          "id": "1354284"
+        },
+        {
+          "avatars": {
+            "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511362485.44.jpg",
+            "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511362485.44.jpg",
+            "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1511362485.44.jpg"
+          },
+          "name_en": "Wei Fan",
+          "name": "范伟",
+          "alt": "https://movie.douban.com/celebrity/1051526/",
+          "id": "1051526"
+        }
+      ],
+      "durations": ["115分钟"],
+      "collect_count": 340,
+      "mainland_pubdate": "",
+      "has_video": false,
+      "original_title": "我在时间尽头等你",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59253.jpg",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59253.jpg",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p59253.jpg"
+          },
+          "name_en": "Tingting Yao",
+          "name": "姚婷婷",
+          "alt": "https://movie.douban.com/celebrity/1324487/",
+          "id": "1324487"
+        }
+      ],
+      "pubdates": ["2020(中国大陆)"],
+      "year": "2020",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2585460940.jpg",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2585460940.jpg",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2585460940.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26661193/",
+      "id": "26661193"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}

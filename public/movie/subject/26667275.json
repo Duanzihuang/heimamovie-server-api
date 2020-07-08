@@ -1,0 +1,281 @@
+{
+  "rating": {
+    "max": 10,
+    "average": 0,
+    "details": {
+      "1": 0,
+      "3": 0,
+      "2": 0,
+      "5": 0,
+      "4": 0
+    },
+    "stars": "00",
+    "min": 0
+  },
+  "reviews_count": 2,
+  "videos": [],
+  "wish_count": 482,
+  "original_title": "我想静静",
+  "blooper_urls": [],
+  "collect_count": 76,
+  "images": {
+    "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595969179.jpg",
+    "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595969179.jpg",
+    "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595969179.jpg"
+  },
+  "douban_site": "",
+  "year": "2020",
+  "popular_comments": [],
+  "alt": "https://movie.douban.com/subject/26667275/",
+  "id": "26667275",
+  "mobile_url": "https://movie.douban.com/subject/26667275/mobile",
+  "photos_count": 17,
+  "pubdate": "2020-08-07",
+  "title": "我想静静",
+  "do_count": null,
+  "has_video": false,
+  "share_url": "http://m.douban.com/movie/subject/26667275",
+  "seasons_count": null,
+  "languages": ["汉语普通话"],
+  "schedule_url": "",
+  "writers": [
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg",
+        "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg",
+        "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg"
+      },
+      "name_en": "Alfred Cheung",
+      "name": "张坚庭",
+      "alt": "https://movie.douban.com/celebrity/1016979/",
+      "id": "1016979"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+        "large": "http://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+        "medium": "http://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      "name_en": "Wing Ki Ng",
+      "name": "吴咏琪",
+      "alt": "https://movie.douban.com/celebrity/1364234/",
+      "id": "1364234"
+    }
+  ],
+  "pubdates": ["2020-08-07(中国大陆)"],
+  "website": "",
+  "tags": [
+    "喜剧",
+    "宠物",
+    "电影",
+    "爱情",
+    "小名静静",
+    "中国",
+    "搞笑",
+    "一流",
+    "触碰",
+    "国产电影"
+  ],
+  "has_schedule": false,
+  "durations": ["100分钟"],
+  "genres": ["喜剧"],
+  "collection": null,
+  "trailers": [],
+  "episodes_count": null,
+  "trailer_urls": [],
+  "has_ticket": false,
+  "bloopers": [],
+  "clip_urls": [],
+  "current_season": null,
+  "casts": [
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22866.jpg",
+        "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22866.jpg",
+        "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22866.jpg"
+      },
+      "name_en": "Shaoqun Yu",
+      "name": "余少群",
+      "alt": "https://movie.douban.com/celebrity/1275100/",
+      "id": "1275100"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45409.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45409.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45409.jpg"
+      },
+      "name_en": "Cyndi Wang",
+      "name": "王心凌",
+      "alt": "https://movie.douban.com/celebrity/1312849/",
+      "id": "1312849"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360146931.08.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360146931.08.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360146931.08.jpg"
+      },
+      "name_en": "Youming Tan",
+      "name": "谭佑铭",
+      "alt": "https://movie.douban.com/celebrity/1323815/",
+      "id": "1323815"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p56947.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p56947.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p56947.jpg"
+      },
+      "name_en": "Yuk-Mui Yeung",
+      "name": "杨玉梅",
+      "alt": "https://movie.douban.com/celebrity/1323594/",
+      "id": "1323594"
+    }
+  ],
+  "countries": ["中国大陆"],
+  "mainland_pubdate": "2020-08-07",
+  "photos": [
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2288681622.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2288681622.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2288681622.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681622/",
+      "id": "2288681622",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2288681622.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2288681599.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2288681599.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2288681599.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681599/",
+      "id": "2288681599",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2288681599.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2288681537.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2288681537.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2288681537.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681537/",
+      "id": "2288681537",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2288681537.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2288681487.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2288681487.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2288681487.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681487/",
+      "id": "2288681487",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2288681487.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2288681327.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2288681327.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2288681327.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681327/",
+      "id": "2288681327",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2288681327.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2288681281.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2288681281.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2288681281.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681281/",
+      "id": "2288681281",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2288681281.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2288681038.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2288681038.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2288681038.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288681038/",
+      "id": "2288681038",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2288681038.jpg"
+    },
+    {
+      "thumb": "https://img9.doubanio.com/view/photo/m/public/p2288680986.jpg",
+      "image": "https://img9.doubanio.com/view/photo/l/public/p2288680986.jpg",
+      "cover": "https://img9.doubanio.com/view/photo/sqs/public/p2288680986.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288680986/",
+      "id": "2288680986",
+      "icon": "https://img9.doubanio.com/view/photo/s/public/p2288680986.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2288680763.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2288680763.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2288680763.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2288680763/",
+      "id": "2288680763",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2288680763.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2595969179.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2595969179.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2595969179.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2595969179/",
+      "id": "2595969179",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2595969179.jpg"
+    }
+  ],
+  "summary": "影片讲述了一个过气演技派演员与当红偶像派歌手因为爱宠而相遇相知的故事。过气演技派演员丁克（余少群 饰）因为古怪的个性和偏执的演技，在一群小鲜肉当红的娱乐圈成了一道独特的风景线，更是与演对手戏的偶像派歌手吕文（王心凌 饰）格格不入，演出了一系列啼笑皆非的闹剧。而当这两个身处于娱乐圈大染缸的孤独之人，不得不面对自己爱宠的离世时，又将会演出怎样的剧情......",
+  "clips": [],
+  "subtype": "movie",
+  "directors": [
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg",
+        "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg",
+        "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1963.jpg"
+      },
+      "name_en": "Alfred Cheung",
+      "name": "张坚庭",
+      "alt": "https://movie.douban.com/celebrity/1016979/",
+      "id": "1016979"
+    }
+  ],
+  "comments_count": 0,
+  "popular_reviews": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 0,
+        "min": 0
+      },
+      "title": "我想静静",
+      "subject_id": "26667275",
+      "author": {
+        "uid": "218072228",
+        "avatar": "http://img3.doubanio.com/icon/u218072228-3.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/218072228/",
+        "id": "218072228",
+        "name": "陈晨"
+      },
+      "summary": "A：我想静静。B：静静是谁。A：我就想静静，你让我静静吗。B：你都不说静静是谁，怎么让你想静静啊。靠想多没劲，说出来我帮你找静静，让你看着静静。A：我不想静静了，可以了吗。B：你一会想着静静，一会就不想...",
+      "alt": "https://movie.douban.com/review/12660900/",
+      "id": "12660900"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 0,
+        "min": 0
+      },
+      "title": "我真的想静静",
+      "subject_id": "26667275",
+      "author": {
+        "uid": "143764906",
+        "avatar": "http://img1.doubanio.com/icon/user_normal.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/143764906/",
+        "id": "143764906",
+        "name": "RBBJR"
+      },
+      "summary": "。。。。水军真多(～o～)zZ。。。。。。。。。。。哈哈哈红红火火恍恍惚惚哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈巴巴爸爸吧巴巴爸爸吧哈哈哈哈不哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈红红火火恍恍惚惚哈...",
+      "alt": "https://movie.douban.com/review/8045970/",
+      "id": "8045970"
+    }
+  ],
+  "ratings_count": 50,
+  "aka": []
+}

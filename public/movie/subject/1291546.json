@@ -1,0 +1,649 @@
+{
+  "rating": {
+    "max": 10,
+    "average": 9.6,
+    "details": {
+      "1": 1656.0,
+      "3": 25450.0,
+      "2": 1850.0,
+      "5": 1033920.0,
+      "4": 201138.0
+    },
+    "stars": "50",
+    "min": 0
+  },
+  "reviews_count": 8056,
+  "videos": [
+    {
+      "source": {
+        "literal": "youku",
+        "pic": "https://img1.doubanio.com/f/movie/886b26a83d18bc60de4ee1daac38145f03c88792/pics/movie/video-youku.png",
+        "name": "优酷视频"
+      },
+      "sample_link": "https://v.youku.com/v_show/id_XMzA1NTAzNjAwMA==.html?tpa=dW5pb25faWQ9MTAzNzUzXzEwMDAwMV8wMV8wMQ&refer=sousuotoufang_market.qrwang_00002944_000000_QJFFvi_19031900",
+      "video_id": "XMzA1NTAzNjAwMA==",
+      "need_pay": false
+    },
+    {
+      "source": {
+        "literal": "qq",
+        "pic": "https://img3.doubanio.com/f/movie/0a74f4379607fa731489d7f34daa545df9481fa0/pics/movie/video-qq.png",
+        "name": "腾讯视频"
+      },
+      "sample_link": "http://v.qq.com/x/cover/j3czmhisqin799r.html?ptag=douban.movie",
+      "video_id": "j3czmhisqin799r",
+      "need_pay": false
+    },
+    {
+      "source": {
+        "literal": "iqiyi",
+        "pic": "https://img9.doubanio.com/f/movie/7c9e516e02c6fe445b6559c0dd2a705e8b17d1c9/pics/movie/video-iqiyi.png",
+        "name": "爱奇艺视频"
+      },
+      "sample_link": "http://www.iqiyi.com/v_19rrho3150.html?vfm=m_331_dbdy&fv=4904d94982104144a1548dd9040df241",
+      "video_id": "19rrho3150",
+      "need_pay": false
+    },
+    {
+      "source": {
+        "literal": "xigua",
+        "pic": "https://img1.doubanio.com/f/movie/056b79bf4b2094cdb661b1f8bee02c39fbd6aa58/pics/movie/video-xigua.png",
+        "name": "西瓜视频"
+      },
+      "sample_link": "https://www.ixigua.com/cinema/album/7Zxonsdr6nx?utm_source=douban",
+      "video_id": "7Zxonsdr6nx",
+      "need_pay": false
+    },
+    {
+      "source": {
+        "literal": "bilibili",
+        "pic": "https://img9.doubanio.com/f/movie/f536fe0ea1cbb0914658ae803125d078351f9047/pics/movie/video-bilibili.png",
+        "name": "哔哩哔哩"
+      },
+      "sample_link": "https://www.bilibili.com/bangumi/play/ep317650",
+      "video_id": "ep317650",
+      "need_pay": false
+    },
+    {
+      "source": {
+        "literal": "cctv6",
+        "pic": "https://img9.doubanio.com/f/movie/8476600ca686384b5f314dca063ffb33f993f579/pics/movie/video-cctv6.png",
+        "name": "1905电影网"
+      },
+      "sample_link": "http://www.1905.com/vod/play/682663.shtml?__hz=6e0721b2c6977135",
+      "video_id": "682663",
+      "need_pay": false
+    }
+  ],
+  "wish_count": 307238,
+  "original_title": "霸王别姬",
+  "blooper_urls": [
+    "https://vt1.doubanio.com/202007081533/fd1d9f23feef2dfefeaa87db1755bdc0/view/movie/M/302400720.mp4"
+  ],
+  "collect_count": 2347776,
+  "images": {
+    "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg",
+    "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg",
+    "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg"
+  },
+  "douban_site": "",
+  "year": "1993",
+  "popular_comments": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "useful_count": 18624,
+      "author": {
+        "uid": "beiliya",
+        "avatar": "http://img9.doubanio.com/icon/u1552466-194.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/beiliya/",
+        "id": "1552466",
+        "name": "沉歌"
+      },
+      "subject_id": "1291546",
+      "content": "他竟当面一语点破：虞姬是真虞姬，霸王是假霸王。",
+      "created_at": "2007-10-14 15:39:21",
+      "id": "21969686"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "useful_count": 3346,
+      "author": {
+        "uid": "ryyy",
+        "avatar": "http://img1.doubanio.com/icon/u2415402-7.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/ryyy/",
+        "id": "2415402",
+        "name": "人云奕云"
+      },
+      "subject_id": "1291546",
+      "content": "我記得我標記過這部片子的啊！——我以為這是國產電影的開始，誰知道是結束。",
+      "created_at": "2012-10-02 22:34:39",
+      "id": "586696755"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "useful_count": 2982,
+      "author": {
+        "uid": "sophie-z",
+        "avatar": "http://img3.doubanio.com/icon/u2081801-101.jpg",
+        "signature": "念念不忘，必有回响",
+        "alt": "https://www.douban.com/people/sophie-z/",
+        "id": "2081801",
+        "name": "Sophie  Z"
+      },
+      "subject_id": "1291546",
+      "content": "那么好的国粹，连日本人都知道要护着，你们说烧就烧……大多数开始于民国间的故事，最难捱的都是那段时间。",
+      "created_at": "2016-04-03 10:31:39",
+      "id": "1027206523"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "useful_count": 24491,
+      "author": {
+        "uid": "jimo",
+        "avatar": "http://img1.doubanio.com/icon/u1190351-9.jpg",
+        "signature": "就算摇到没牙我他妈至少还能滚",
+        "alt": "https://www.douban.com/people/jimo/",
+        "id": "1190351",
+        "name": "老鸡｜扶立"
+      },
+      "subject_id": "1291546",
+      "content": "在野路子出身的张国荣面前，学院出身的张丰毅显得那么单薄",
+      "created_at": "2008-01-10 16:26:02",
+      "id": "28429406"
+    }
+  ],
+  "alt": "https://movie.douban.com/subject/1291546/",
+  "id": "1291546",
+  "mobile_url": "https://movie.douban.com/subject/1291546/mobile",
+  "photos_count": 1999,
+  "pubdate": "1993-07-26",
+  "title": "霸王别姬",
+  "do_count": null,
+  "has_video": true,
+  "share_url": "http://m.douban.com/movie/subject/1291546",
+  "seasons_count": null,
+  "languages": ["汉语普通话"],
+  "schedule_url": "",
+  "writers": [
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449558431.6.jpg",
+        "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449558431.6.jpg",
+        "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449558431.6.jpg"
+      },
+      "name_en": "Wei Lu",
+      "name": "芦苇",
+      "alt": "https://movie.douban.com/celebrity/1275557/",
+      "id": "1275557"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1470202176.98.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1470202176.98.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1470202176.98.jpg"
+      },
+      "name_en": "Lilian Lee Pik-Wah",
+      "name": "李碧华",
+      "alt": "https://movie.douban.com/celebrity/1275229/",
+      "id": "1275229"
+    }
+  ],
+  "pubdates": ["1993-01-01(中国香港)", "1993-07-26(中国大陆)"],
+  "website": "",
+  "tags": [
+    "经典",
+    "人性",
+    "文艺",
+    "爱情",
+    "人生",
+    "文革",
+    "剧情",
+    "同志",
+    "历史",
+    "同性"
+  ],
+  "has_schedule": false,
+  "durations": ["171分钟", "155分钟(美国剧场版)"],
+  "genres": ["剧情", "爱情", "同性"],
+  "collection": null,
+  "trailers": [
+    {
+      "medium": "http://img3.doubanio.com/img/trailer/medium/2540939492.jpg?",
+      "title": "预告片：25周年数字修复版 (中文字幕)",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/239810/",
+      "small": "http://img3.doubanio.com/img/trailer/small/2540939492.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/63647f7dc58d36e67a9544ddd7bbdd36/view/movie/M/302390810.mp4",
+      "id": "239810"
+    },
+    {
+      "medium": "http://img1.doubanio.com/img/trailer/medium/2589003359.jpg?",
+      "title": "预告片：韩国重映版",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/259611/",
+      "small": "http://img1.doubanio.com/img/trailer/small/2589003359.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/1a991b43ff3cf4d613f83492e54ccb6f/view/movie/M/302590611.mp4",
+      "id": "259611"
+    },
+    {
+      "medium": "http://img9.doubanio.com/img/trailer/medium/2447485306.jpg?",
+      "title": "韩国预告片：重映版",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/214067/",
+      "small": "http://img9.doubanio.com/img/trailer/small/2447485306.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/073e52648c84945a761fb20ff53be0bc/view/movie/M/302140067.mp4",
+      "id": "214067"
+    },
+    {
+      "medium": "http://img3.doubanio.com/img/trailer/medium/1668679081.jpg?",
+      "title": "美国预告片",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/119875/",
+      "small": "http://img3.doubanio.com/img/trailer/small/1668679081.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/471a8296bc6210dc2dfa10ad79172d16/view/movie/M/301190875.mp4",
+      "id": "119875"
+    }
+  ],
+  "episodes_count": null,
+  "trailer_urls": [
+    "https://vt1.doubanio.com/202007081533/63647f7dc58d36e67a9544ddd7bbdd36/view/movie/M/302390810.mp4",
+    "https://vt1.doubanio.com/202007081533/1a991b43ff3cf4d613f83492e54ccb6f/view/movie/M/302590611.mp4",
+    "https://vt1.doubanio.com/202007081533/073e52648c84945a761fb20ff53be0bc/view/movie/M/302140067.mp4",
+    "https://vt1.doubanio.com/202007081533/471a8296bc6210dc2dfa10ad79172d16/view/movie/M/301190875.mp4"
+  ],
+  "has_ticket": false,
+  "bloopers": [
+    {
+      "medium": "http://img3.doubanio.com/img/trailer/medium/2542557101.jpg?",
+      "title": "花絮：超长制作特辑 (中文字幕)",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/240720/",
+      "small": "http://img3.doubanio.com/img/trailer/small/2542557101.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/fd1d9f23feef2dfefeaa87db1755bdc0/view/movie/M/302400720.mp4",
+      "id": "240720"
+    }
+  ],
+  "clip_urls": [
+    "https://vt1.doubanio.com/202007081533/4cf3ef992a414cdd3abce5c5feb53e74/view/movie/M/301430878.mp4"
+  ],
+  "current_season": null,
+  "casts": [
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p67.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p67.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p67.jpg"
+      },
+      "name_en": "Leslie Cheung",
+      "name": "张国荣",
+      "alt": "https://movie.douban.com/celebrity/1003494/",
+      "id": "1003494"
+    },
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1391771959.66.jpg",
+        "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1391771959.66.jpg",
+        "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1391771959.66.jpg"
+      },
+      "name_en": "Fengyi Zhang",
+      "name": "张丰毅",
+      "alt": "https://movie.douban.com/celebrity/1050265/",
+      "id": "1050265"
+    },
+    {
+      "avatars": {
+        "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1399268395.47.jpg",
+        "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1399268395.47.jpg",
+        "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1399268395.47.jpg"
+      },
+      "name_en": "Li Gong",
+      "name": "巩俐",
+      "alt": "https://movie.douban.com/celebrity/1035641/",
+      "id": "1035641"
+    },
+    {
+      "avatars": {
+        "small": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46.jpg",
+        "large": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46.jpg",
+        "medium": "http://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46.jpg"
+      },
+      "name_en": "You Ge",
+      "name": "葛优",
+      "alt": "https://movie.douban.com/celebrity/1000905/",
+      "id": "1000905"
+    }
+  ],
+  "countries": ["中国大陆", "中国香港"],
+  "mainland_pubdate": "1993-07-26",
+  "photos": [
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2581065129.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2581065129.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2581065129.jpg",
+      "alt": "https://movie.douban.com/photos/photo/2581065129/",
+      "id": "2581065129",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2581065129.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p454374103.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p454374103.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p454374103.jpg",
+      "alt": "https://movie.douban.com/photos/photo/454374103/",
+      "id": "454374103",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p454374103.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p454365830.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p454365830.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p454365830.jpg",
+      "alt": "https://movie.douban.com/photos/photo/454365830/",
+      "id": "454365830",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p454365830.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p459623479.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p459623479.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p459623479.jpg",
+      "alt": "https://movie.douban.com/photos/photo/459623479/",
+      "id": "459623479",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p459623479.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p454369361.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p454369361.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p454369361.jpg",
+      "alt": "https://movie.douban.com/photos/photo/454369361/",
+      "id": "454369361",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p454369361.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p1949228542.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p1949228542.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p1949228542.jpg",
+      "alt": "https://movie.douban.com/photos/photo/1949228542/",
+      "id": "1949228542",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p1949228542.jpg"
+    },
+    {
+      "thumb": "https://img9.doubanio.com/view/photo/m/public/p1429781506.jpg",
+      "image": "https://img9.doubanio.com/view/photo/l/public/p1429781506.jpg",
+      "cover": "https://img9.doubanio.com/view/photo/sqs/public/p1429781506.jpg",
+      "alt": "https://movie.douban.com/photos/photo/1429781506/",
+      "id": "1429781506",
+      "icon": "https://img9.doubanio.com/view/photo/s/public/p1429781506.jpg"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p504397690.jpg",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p504397690.jpg",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p504397690.jpg",
+      "alt": "https://movie.douban.com/photos/photo/504397690/",
+      "id": "504397690",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p504397690.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p1665762739.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p1665762739.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p1665762739.jpg",
+      "alt": "https://movie.douban.com/photos/photo/1665762739/",
+      "id": "1665762739",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p1665762739.jpg"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p454364417.jpg",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p454364417.jpg",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p454364417.jpg",
+      "alt": "https://movie.douban.com/photos/photo/454364417/",
+      "id": "454364417",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p454364417.jpg"
+    }
+  ],
+  "summary": "段小楼（张丰毅）与程蝶衣（张国荣）是一对打小一起长大的师兄弟，两人一个演生，一个饰旦，一向配合天衣无缝，尤其一出《霸王别姬》，更是誉满京城，为此，两人约定合演一辈子《霸王别姬》。但两人对戏剧与人生关系的理解有本质不同，段小楼深知戏非人生，程蝶衣则是人戏不分。\n段小楼在认为该成家立业之时迎娶了名妓菊仙（巩俐），致使程蝶衣认定菊仙是可耻的第三者，使段小楼做了叛徒，自此，三人围绕一出《霸王别姬》生出的爱恨情仇战开始随着时代风云的变迁不断升级，终酿成悲剧。©豆瓣",
+  "clips": [
+    {
+      "medium": "http://img3.doubanio.com/img/trailer/medium/2154083031.jpg?",
+      "title": "片段",
+      "subject_id": "1291546",
+      "alt": "https://movie.douban.com/trailer/143878/",
+      "small": "http://img3.doubanio.com/img/trailer/small/2154083031.jpg?",
+      "resource_url": "https://vt1.doubanio.com/202007081533/4cf3ef992a414cdd3abce5c5feb53e74/view/movie/M/301430878.mp4",
+      "id": "143878"
+    }
+  ],
+  "subtype": "movie",
+  "directors": [
+    {
+      "avatars": {
+        "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.jpg",
+        "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.jpg",
+        "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.jpg"
+      },
+      "name_en": "Kaige Chen",
+      "name": "陈凯歌",
+      "alt": "https://movie.douban.com/celebrity/1023040/",
+      "id": "1023040"
+    }
+  ],
+  "comments_count": 307100,
+  "popular_reviews": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "最懂蝶衣袁四爷",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "mihiro",
+        "avatar": "http://img9.doubanio.com/icon/u1588315-5.jpg",
+        "signature": "中国第一鉴腚湿人",
+        "alt": "https://www.douban.com/people/mihiro/",
+        "id": "1588315",
+        "name": "陈野犁"
+      },
+      "summary": "李碧华名作《霸王别姬》，我没看过原著，只看了电影。之前东鳞西爪地听人讲过这故事，略有了解。又在电视里瞥到几眼片段。一直耿耿于怀。为了表示对这部向往已久的好片子的尊重，破天荒地买了正版影碟。然后在一...",
+      "alt": "https://movie.douban.com/review/1380398/",
+      "id": "1380398"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "关于《霸王别姬》-",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "psyduck",
+        "avatar": "http://img3.doubanio.com/icon/u1098318-11.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/psyduck/",
+        "id": "1098318",
+        "name": "psyduck"
+      },
+      "summary": "又看《霸王别姬》，不一样的环境，一样的感动。 有几大矛盾对象： 程蝶衣与段小楼 蝶衣从最开始进京剧班，就与小楼有着很深厚的感情。我们可以看到许多感人的画面：小楼受罚，黑夜冬天在院子了跪着，蝶衣则隔着窗...",
+      "alt": "https://movie.douban.com/review/1025873/",
+      "id": "1025873"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "评评与原著相违背的四个场景",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "somaliayaswan",
+        "avatar": "http://img9.doubanio.com/icon/u1927633-4.jpg",
+        "signature": "balada para un loco",
+        "alt": "https://www.douban.com/people/somaliayaswan/",
+        "id": "1927633",
+        "name": "索马里难民"
+      },
+      "summary": "《霸王别姬》的电影按照原著的角度来看，主要修改了四个地方。 一是幼年的小豆子负气将母亲留下的大衣烧掉了，原著中并没有这个故事。 二是添加了背《思凡》背错的时候小石头用烟斗撬小豆子嘴的场景，原著中同样...",
+      "alt": "https://movie.douban.com/review/4521203/",
+      "id": "4521203"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "迷恋与背叛——[霸王别姬]",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "adi",
+        "avatar": "http://img3.doubanio.com/icon/u1135116-13.jpg",
+        "signature": "舍悟离迷，六尘不改。",
+        "alt": "https://www.douban.com/people/adi/",
+        "id": "1135116",
+        "name": "阿底"
+      },
+      "summary": "    必须承认，在看这部电影之前，对国产电影有种本能的偏见，认为就是拍不过人家的大导演，拍不出人家的大手笔。当然，其实这是谬论。现在不用谁站出来批判一下我的这种情节，我自己也会毫不客气的承认。      ...",
+      "alt": "https://movie.douban.com/review/1049362/",
+      "id": "1049362"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "胡说霸王别姬",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "CONGJIAWANER",
+        "avatar": "http://img3.doubanio.com/icon/u2323878-110.jpg",
+        "signature": "管得落花无",
+        "alt": "https://www.douban.com/people/CONGJIAWANER/",
+        "id": "2323878",
+        "name": "从嘉"
+      },
+      "summary": "程蝶衣：阉割的完成  和我一起看电影的某个纯洁善良的小孩，看到小豆子被“咔”的一下剁掉了多余的手指时，作不忍目睹状。而我则一脸坏笑地想起一个词：阉割。我始终认为剁手指的一场戏在剧中一定有它的象征意义...",
+      "alt": "https://movie.douban.com/review/1356540/",
+      "id": "1356540"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "戏梦人生",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "flower21",
+        "avatar": "http://img3.doubanio.com/icon/u1532168-81.jpg",
+        "signature": "Shit happens everyday though.",
+        "alt": "https://www.douban.com/people/flower21/",
+        "id": "1532168",
+        "name": "火龙果不耐受者"
+      },
+      "summary": "·张国荣能接《霸王别姬》很大程度上要感谢黄百鸣：当时张国荣是东方院线的签约艺员，本来不可以去接拍其它公司的电影，但是作为老板的黄百鸣不但不做限制，反而大力鼓动他去接下此戏，说剧本实在太好了，“会成...",
+      "alt": "https://movie.douban.com/review/1238558/",
+      "id": "1238558"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4.0,
+        "min": 0
+      },
+      "title": "从另一角度看《霸王别姬》",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "liugary",
+        "avatar": "http://img9.doubanio.com/icon/u1871790-4.jpg",
+        "signature": "都是水，何必装纯！",
+        "alt": "https://www.douban.com/people/liugary/",
+        "id": "1871790",
+        "name": "何颜对故人"
+      },
+      "summary": "   仔细看了很多朋友评《霸王别姬》都是从宏观上来看整部电影，或许是处于某些原因，有些话不敢说，但是我认为评电影，论史实不能回避问题，一团和气。下面简单说说我的一点看法。      李碧华原著开始就是一句—...",
+      "alt": "https://movie.douban.com/review/1214231/",
+      "id": "1214231"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "一剑了却余生愿，世间再无程蝶衣｜霸王别姬",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "171277254",
+        "avatar": "http://img9.doubanio.com/icon/u171277254-25.jpg",
+        "signature": "NEW LIFE",
+        "alt": "https://www.douban.com/people/171277254/",
+        "id": "171277254",
+        "name": "🧚‍♀️"
+      },
+      "summary": "两个终生遁着霸王去的女人，最终是姬别霸王。只因虞姬是真虞姬，霸王是假霸王。 三个小时漆黑黑地在家读完了电影，还没看完原著。但想来李碧华是赢不过陈凯歌的。从《青蛇》到《霸王别姬》，李碧华写男女情爱到妖...",
+      "alt": "https://movie.douban.com/review/9076566/",
+      "id": "9076566"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "“我本是男儿郎，又不是女娇娥”——《霸王别姬》",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "33453468",
+        "avatar": "http://img1.doubanio.com/icon/u33453468-7.jpg",
+        "signature": "爱google，爱黑丝，爱读书。",
+        "alt": "https://www.douban.com/people/33453468/",
+        "id": "33453468",
+        "name": "独独读读"
+      },
+      "summary": "    “我本是男儿郎，又不是女娇娥”这句台词多次在电影《霸王别姬》中出现，而且是理解程蝶衣性别冲突的一个重要线索。许多人可能简单地据此线索将本片解读为一个男性如何在其人生成长过程中性取向被扭曲，笔者...",
+      "alt": "https://movie.douban.com/review/2963396/",
+      "id": "2963396"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5.0,
+        "min": 0
+      },
+      "title": "张国荣评《霸王别姬》",
+      "subject_id": "1291546",
+      "author": {
+        "uid": "3481636",
+        "avatar": "http://img3.doubanio.com/icon/u3481636-1.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/3481636/",
+        "id": "3481636",
+        "name": "小之"
+      },
+      "summary": "對談人：關錦鵬、張國榮   去年（一九九五），關錦鵬應英國大英電影協會（BFI．British Film Institute）之邀，擔任 [紀念電影一百年全球訪談系列紀紀錄片]兩岸三地部分的製作人，為了這個重大的任務，關錦鵬走访...",
+      "alt": "https://movie.douban.com/review/1615230/",
+      "id": "1615230"
+    }
+  ],
+  "ratings_count": 1532806,
+  "aka": ["再见，我的妾", "Farewell My Concubine"]
+}
